@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivang sinha
-- 👀 I’m interested in Technical Product Management 
-- 🌱 I’m currently learning Python and AWS
+- 👀 I’m interested in  Product Management or Business Analyst. 
+- 🌱 I’m currently learning Python,Tableau,PowerbI, SQL and AWS.
 - 📫 How to reach me https://www.linkedin.com/in/shivangsinhs/
 
 <!---
